@@ -163,3 +163,10 @@ Review and rating system.
 Conclusion
 
 The Luxe Rental System provides an efficient and convenient platform for managing rentals across multiple categories including houses, apartments, PGs, vehicles, and commercial spaces. The system simplifies the rental process for both users and administrators while maintaining accurate records and improving accessibility through a web-based interface.
+
+
+##AUTHOR
+->shreya immannavar
+
+##DEPLOYRD LINK
+-->   https://luxerentalsystem.rf.gd
